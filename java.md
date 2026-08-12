@@ -22,3 +22,16 @@ Java sirve para desarrollar diferentes tipos de programas y aplicaciones.
 6. Programas que utilizan bases de datos.
 7. Aplicaciones para diferentes dispositivos.
 
+## 3. ¿Cómo se usa Java?
+
+Para utilizar Java se necesita instalar el JDK (Java Development Kit), 
+que proporciona las herramientas necesarias para escribir, compilar y ejecutar programas.
+
+### Pasos básicos
+
+1. Instalar el JDK.
+2. Crear un archivo con extensión .java.
+3. Escribir el código.
+4. Compilar el programa.
+5. Ejecutar el programa.
+
