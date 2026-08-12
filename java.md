@@ -11,3 +11,14 @@ Fue creado para permitir el desarrollo de diferentes tipos de aplicaciones.
 - Utiliza la Máquina Virtual de Java (JVM).
 
 ## 2. ¿Para qué sirve Java?
+
+Java sirve para desarrollar diferentes tipos de programas y aplicaciones.
+
+1. Aplicaciones de escritorio.
+2. Aplicaciones web.
+3. Sistemas empresariales.
+4. Aplicaciones para servidores.
+5. Servicios en la nube.
+6. Programas que utilizan bases de datos.
+7. Aplicaciones para diferentes dispositivos.
+
