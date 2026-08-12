@@ -35,3 +35,13 @@ que proporciona las herramientas necesarias para escribir, compilar y ejecutar p
 4. Compilar el programa.
 5. Ejecutar el programa.
 
+### 4. Características de Java
+
+- *Orientado a objetos:* permite organizar el código mediante clases y objetos.
+- *Multiplataforma:* puede ejecutarse en diferentes sistemas operativos.
+- *Portátil:* un programa Java puede funcionar en diferentes plataformas gracias a la JVM.
+- *Seguro:* cuenta con mecanismos de seguridad para proteger las aplicaciones.
+- *Gestión automática de memoria:* utiliza el Garbage Collector para administrar la memoria.
+- *Robusto:* permite desarrollar programas confiables y detectar errores.
+- *Amplias bibliotecas:* dispone de muchas herramientas y funciones para facilitar la programación.
+
