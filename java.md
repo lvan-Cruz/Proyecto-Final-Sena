@@ -45,3 +45,12 @@ que proporciona las herramientas necesarias para escribir, compilar y ejecutar p
 - *Robusto:* permite desarrollar programas confiables y detectar errores.
 - *Amplias bibliotecas:* dispone de muchas herramientas y funciones para facilitar la programación.
 
+### 5. Ejemplo
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hola, mundo");
+    }
+}
+
