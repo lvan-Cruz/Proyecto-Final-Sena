@@ -63,3 +63,37 @@ Algoritmo SinTitulo
     FinPara
 
 FinAlgoritmo
+
+
+# Ejercicio: División entera
+
+***
+
+### Consigna
+
+Realizar un algoritmo en PSeInt que permita ingresar dos números **A y B** y calcular el **cociente y el residuo** de la división utilizando restas sucesivas.
+
+### Algoritmo
+
+```pseint
+Algoritmo DivisionEntera
+
+    Definir A, B, cociente Como Entero
+
+    Escribir "Ingrese A:"
+    Leer A
+
+    Escribir "Ingrese B:"
+    Leer B
+
+    cociente <- 0
+
+    Mientras A >= B Hacer
+        A <- A - B
+        cociente <- cociente + 1
+    FinMientras
+
+    Escribir "El cociente es: ", cociente
+    Escribir "El residuo es: ", A
+
+FinAlgoritmo
