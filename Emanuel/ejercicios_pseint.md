@@ -33,3 +33,32 @@ R// Algoritmo sin_titulo
 			FinSi
 		FinSi
 FinAlgoritmo
+
+# Ejerccio 2
+
+## Pregunta de Ejercicio
+
+Pregunta del algoritmo
+
+Una empresa desea calcular la comisión total que debe pagar a un vendedor por un conjunto de ventas realizadas durante un período. Se conoce la cantidad de ventas y el valor de cada una. Si una venta es mayor a $50.000, el vendedor recibe una comisión del 7%; de lo contrario, recibe una comisión del 5%.
+Realice un algoritmo que permita ingresar la cantidad de ventas, el valor de cada venta y calcular la comisión total que debe recibir el vendedor.
+
+R//lgoritmo sin_titulo
+		Definir N, i Como Entero
+		Definir venta, comision, comisionTotal Como Real
+		comisionTotal <- 0
+		Escribir 'Ingrese la cantidad de ventas:'
+		Leer N
+		Para i <- 1 Hasta N Hacer
+			Escribir 'Ingrese el valor de la venta ', i, ':'
+			Leer venta
+			Si venta > 50000 Entonces
+				comision <- venta * 0.07
+			SiNo
+				comision <- venta * 0.05
+			FinSi
+			comisionTotal <- comisionTotal + comision
+		FinPara
+     Escribir 'La comisión total es: $', comisionTotal
+FinAlgoritmo
+
