@@ -34,3 +34,32 @@ Algoritmo EsPrimo
     FinSi
 
 FinAlgoritmo
+
+
+# Ejercicio: Mostrar números en orden inverso
+
+***
+
+### Consigna
+
+Realizar un algoritmo en PSeInt que permita ingresar **10 números** en un arreglo y luego los muestre en **orden inverso**, es decir, desde el último número ingresado hasta el primero.
+
+### Algoritmo
+
+```pseint
+Algoritmo SinTitulo
+
+    Dimension numeros[10]
+
+    Para i <- 1 Hasta 10 Hacer
+        Escribir "Digita tu número:"
+        Leer numeros[i]
+    FinPara
+
+    Escribir "Números en orden inverso:"
+
+    Para j <- 10 Hasta 1 Con Paso -1 Hacer
+        Escribir numeros[j]
+    FinPara
+
+FinAlgoritmo
