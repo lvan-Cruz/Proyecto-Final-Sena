@@ -62,3 +62,33 @@ R//lgoritmo sin_titulo
      Escribir 'La comisión total es: $', comisionTotal
 FinAlgoritmo
 
+# Ejercicio #
+
+## Pregunta de Ejercicio
+
+“Elabore un algoritmo que permita ingresar la cantidad de artículos y el precio de cada uno de ellos, y determine cuál es el precio más alto entre todos los artículos.”
+
+R//Algoritmo sin_titulo
+	Definir N, i Como Entero
+	Definir precio, mayor Como Real
+	Escribir ' ingrese la cantidad de articulos: '
+	Leer N
+	Para i <- 1 Hasta N Hacer
+		Escribir ' ingrese el precio del articulo ', i, ':'
+		Leer precio
+		si i = 1 Entonces
+			mayor <- precio
+		SiNo
+			si precio > mayor Entonces
+				mayor <- precio
+			FinSi
+		FinSi
+	FinPara
+	Escribir ' el precio del articulo mayor es: $', mayor
+FinAlgoritmo
+
+
+
+
+
+
