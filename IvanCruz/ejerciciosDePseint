@@ -10,3 +10,21 @@ Algoritmo ContarNumeros
         Escribir i
     FinPara
 FinAlgoritmo
+
+Ejercicio 2
+Pide al usuario un número N y calcula la suma de todos los números desde 1 hasta N.
+
+Algoritmo SumarNumeros
+    Definir N, i, suma Como Entero
+    
+    suma <- 0
+    
+    Escribir "Ingrese un número:"
+    Leer N
+    
+    Para i <- 1 Hasta N Hacer
+        suma <- suma + i
+    FinPara
+    
+    Escribir "La suma es: ", suma
+FinAlgoritmo
