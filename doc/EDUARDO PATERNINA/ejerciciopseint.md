@@ -17,3 +17,12 @@ Algoritmo ejercicio
 		FinPara
 		Escribir "El precio del artículo más caro es: ", mayor
 FinAlgoritmo
+
+### algoritmo
+realizar un algoritmo que me de el area del circulo
+Algoritmo areacirculo
+	Escribir "dame el radio del circulo"
+	leer r
+	area = 3.14 * r^2
+	Escribir "el area de la circunferencia es" area
+FinAlgoritmo
