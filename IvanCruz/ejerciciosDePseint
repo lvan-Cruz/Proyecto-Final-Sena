@@ -28,3 +28,18 @@ Algoritmo SumarNumeros
     
     Escribir "La suma es: ", suma
 FinAlgoritmo
+
+ejercicio 3
+Pide un número al usuario y muestra su tabla de multiplicar del 1 al 10.
+
+Algoritmo TablaMultiplicar
+    Definir N, i, resultado Como Entero
+    
+    Escribir "Ingrese un número:"
+    Leer N
+    
+    Para i <- 1 Hasta 10 Hacer
+        resultado <- N * i
+        Escribir N, " x ", i, " = ", resultado
+    FinPara
+FinAlgoritmo
