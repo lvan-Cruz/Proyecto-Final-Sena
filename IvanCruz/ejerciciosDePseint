@@ -1,0 +1,12 @@
+Ejercicio 1
+Pide al usuario un número y muestra todos los números desde 1 hasta ese número.
+Algoritmo ContarNumeros
+    Definir N, i Como Entero
+    
+    Escribir "Ingrese un número:"
+    Leer N
+    
+    Para i <- 1 Hasta N Hacer
+        Escribir i
+    FinPara
+FinAlgoritmo
