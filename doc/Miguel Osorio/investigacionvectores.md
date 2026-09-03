@@ -20,4 +20,8 @@ Los vectores pueden representarse mediante segmentos orientados o mediante compo
 
 Existen diferentes clasificaciones de vectores según sus características. Entre ellos se encuentran los vectores libres, ligados y deslizantes. También pueden clasificarse como vectores unitarios, nulos, opuestos, paralelos o perpendiculares, dependiendo de sus propiedades geométricas y algebraicas.
 
+## operaciones con vectores
+
+Las principales operaciones vectoriales son la suma, la resta y la multiplicación por un escalar. Estas operaciones permiten modificar y combinar vectores siguiendo determinadas reglas matemáticas.
+
 ## 
