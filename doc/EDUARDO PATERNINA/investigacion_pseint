@@ -1,3 +1,11 @@
 # investigacion de pseint
+# que es peint
 - PSeInt es una herramienta educativa diseñada para aprender y practicar programación de una manera sencilla. Permite escribir algoritmos utilizando pseudocódigo, es decir, instrucciones escritas de forma parecida al lenguaje humano.
--
+- Con PSeInt puedes aprender conceptos básicos como variables, condiciones, ciclos, funciones y operadores, sin necesidad de conocer un lenguaje de programación complicado. Además, permite ejecutar los algoritmos y detectar errores, ayudando a comprender cómo funciona un programa antes de pasar a lenguajes como Python, Java o C++.
+
+# como funciona
+- PSeInt funciona mediante pseudocódigo, que consiste en escribir instrucciones de una forma parecida al lenguaje que utilizamos normalmente. Esto permite que los estudiantes puedan aprender a crear algoritmos sin tener que conocer desde el principio un lenguaje de programación complicado.
+
+# ejemplo
+- Por ejemplo, una persona puede indicarle al programa que pida un número, lo guarde en una variable y después muestre un resultado. PSeInt interpreta esas instrucciones y permite ver cómo funciona el algoritmo paso a paso.
+
