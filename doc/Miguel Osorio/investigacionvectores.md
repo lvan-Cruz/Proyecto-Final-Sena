@@ -24,4 +24,11 @@ Existen diferentes clasificaciones de vectores según sus características. Entr
 
 Las principales operaciones vectoriales son la suma, la resta y la multiplicación por un escalar. Estas operaciones permiten modificar y combinar vectores siguiendo determinadas reglas matemáticas.
 
-## 
+## Magnitud de un vector
+
+La magnitud o módulo representa el tamaño de un vector. Su cálculo depende de las componentes que lo forman y de las dimensiones del espacio en el que se encuentra. La magnitud siempre corresponde a un valor no negativo.
+
+## Dirección y sentido
+
+La dirección indica la orientación de un vector respecto a un sistema de referencia, mientras que el sentido determina hacia dónde está orientado dentro de esa dirección. Ambos conceptos son fundamentales para interpretar correctamente una representación vectorial.
+
