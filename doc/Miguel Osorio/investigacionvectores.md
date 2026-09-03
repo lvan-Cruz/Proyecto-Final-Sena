@@ -15,3 +15,9 @@ Los vectores permiten almacenar múltiples datos bajo un mismo nombre. Sus eleme
 ## como se representa un vector 
 
 Los vectores pueden representarse mediante segmentos orientados o mediante componentes numéricas. En un sistema de coordenadas, un vector puede expresarse utilizando sus componentes correspondientes a cada eje. Esta representación facilita el estudio de sus propiedades y operaciones.
+
+## tipos de vectores
+
+Existen diferentes clasificaciones de vectores según sus características. Entre ellos se encuentran los vectores libres, ligados y deslizantes. También pueden clasificarse como vectores unitarios, nulos, opuestos, paralelos o perpendiculares, dependiendo de sus propiedades geométricas y algebraicas.
+
+## 
